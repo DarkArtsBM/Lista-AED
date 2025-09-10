@@ -1,2 +1,2 @@
 # Lista-AED
-repositório para estudo e ajuda dos desavisados 
+Repositorio criado para ajudar meus amiguinhos que precisam de ajuda e para estudo da Materia de AED.
